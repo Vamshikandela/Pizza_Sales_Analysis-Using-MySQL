@@ -1,7 +1,6 @@
 # 🍕 Pizza Sales Analysis Using SQL
-<p align="center">
-  <img src="D:\SQL Unique Project\pizza sales.jpg" width="850"/>
-</p>
+![Pizza Sales Analysis]("D:\SQL Unique Project\pizza sales.jpg")
+
 
 
 
