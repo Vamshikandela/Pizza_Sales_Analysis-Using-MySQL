@@ -1,6 +1,9 @@
 # 🍕 Pizza Sales Analysis Using SQL
-("![pizza sales](https://github.com/user-attachments/assets/feaf58f1-996a-4708-923b-1bf6c202e211)
-")
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feaf58f1-996a-4708-923b-1bf6c202e211" width="800"/>
+</p>
 
 
 
