@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Analysis Using SQL
-![Uploading image.png…]()
+- ![Uploading image.png…]()
 
 ## 📌 Project Overview
 
