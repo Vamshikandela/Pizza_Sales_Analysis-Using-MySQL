@@ -140,5 +140,5 @@ Predictive sales forecasting
 
 ## 📬 Contact
 
-Author: Kandela Vamshi
-📧 Open to feedback, collaboration, and opportunities
+- **Author: Kandela Vamshi**
+- **📧 Open to feedback, collaboration, and opportunities**
