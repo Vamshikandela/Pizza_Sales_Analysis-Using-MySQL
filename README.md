@@ -1,5 +1,6 @@
 # 🍕 Pizza Sales Analysis Using SQL
-![Pizza Sales Analysis]("D:\SQL Unique Project\pizza sales.jpg")
+![Pizza Sales Analysis]("![pizza sales](https://github.com/user-attachments/assets/feaf58f1-996a-4708-923b-1bf6c202e211)
+")
 
 
 
